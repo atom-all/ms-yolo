@@ -1,7 +1,7 @@
 # MS-YOLOv11
 This repository contains the official implementation of the paper:  
 > **Lightweight Road Defect Detection via Multi-layer Feature Fusion and Parameter Sharing**  
-> Submitted to *The Visual Computer* (2026).
+> Submitted to *JOURNAL OF ELECTRONIC IMAGING* (2026).
 
 -------
 ## 📌 Overview
@@ -42,11 +42,11 @@ A **partial dataset** is included in the `data/` folder to demonstrate the usage
  If you find this work useful, please cite our manuscript:
  @article{MS-YOLOv11,
   title   = {Lightweight Road Defect Detection via Multi-layer Feature Fusion and Parameter Sharing},
-  author  = {Zhang Miao and Wu Huan and Lei Jingfa},
-  journal = {The Visual Computer},
+  author  = {Miao Zhang and Huan Wu },
+  journal = {JOURNAL OF ELECTRONIC IMAGING},
   year    = {2026}
 }
 
 
  ## 🔗 Related Information
-This repository is directly associated with the manuscript submitted to The Visual Computer.
+This repository is directly associated with the manuscript submitted to JOURNAL OF ELECTRONIC IMAGING.
